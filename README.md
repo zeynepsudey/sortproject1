@@ -54,6 +54,6 @@ Best case: Aradığımız sayının dizinin en başında olması.
 ##### [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
 
 ##### Cevap :
-    ![Ekran Görüntüsü (783)](https://github.com/zeynepsudey/sortprojects/assets/107553286/0a12a62e-d36e-4674-8cae-631f05ab0e0f)
+![Ekran Görüntüsü (783)](https://github.com/zeynepsudey/sortprojects/assets/107553286/0a12a62e-d36e-4674-8cae-631f05ab0e0f)
 
 Root 6'dır. Root'un solunda kendinden küçük, sağında kendinden büyük değerler bulunur.
