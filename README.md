@@ -1,4 +1,4 @@
-# Projeler
+# Proje 1
 ##### [22,27,16,2,18,6] -> Insertion Sort
     Yukarı verilen dizinin sort türüne göre aşamalarını yazınız..
 
@@ -8,6 +8,7 @@
     [2,6,16,22,18,27]
     [2,6,16,22,18,27]
     [2,6,16,18,22,27]
+
 
 ##### Big-O gösterimini yazınız.
 
@@ -29,5 +30,21 @@ Best case: Aradığımız sayının dizinin en başında olması.
     [2,3,4,8,7,9,5,15,6]
     [2,3,4,5,7,9,8,15,6]
     [2,3,4,5,6,9,8,15,7]
+
+
+
+# Proje 2
+
+##### [16,21,11,8,12,22] -> Merge Sort 
+    Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+
+##### Cevap :
+
+![Ekran Görüntüsü (781)](https://github.com/zeynepsudey/sortprojects/assets/107553286/ce612e48-5437-4624-8ec8-6d22866b7c05)
+
+
+##### Big-O gösterimini yazınız.
+##### Cevap :
+    O(nlogn)
 
 
