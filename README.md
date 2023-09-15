@@ -40,7 +40,7 @@ Best case: Aradığımız sayının dizinin en başında olması.
 
 ##### Cevap :
 
-![Ekran Görüntüsü (781)](https://github.com/zeynepsudey/sortprojects/assets/107553286/ce612e48-5437-4624-8ec8-6d22866b7c05)
+##### ![Ekran Görüntüsü (781)](https://github.com/zeynepsudey/sortprojects/assets/107553286/ce612e48-5437-4624-8ec8-6d22866b7c05)
 
 
 ##### Big-O gösterimini yazınız.
